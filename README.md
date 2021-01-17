@@ -14,7 +14,6 @@
 ## Inspiration 
 ######  In this age almost every inch of our world is already mapped. You’ll navigate using google maps or some other GPS app. However, once you reach your destination and go indoors, GPS has no line of sight and you go back for asking directions. This is where NAV-AR “comes into play”(enters).
 
-
 ## How We built it
 ###### We built Nav-AR by use of SLAM i.e., Simultaneous Localization and Mapping, a computational technique that involves the task of constructing an internal map of an unknown area whilst keeping track of its position inside the area. Next we rendered the map and made use of A* pathfinding algorithm for finding shortest path. To deliver a highly interactive  Augmented Reality Experience, we used Unity Engine and Google ARCore. Lastly we made use of a QR code scan mechanism for calibration and localisation purposes.
 ### Our Team built NAV-AR using  :
@@ -42,5 +41,9 @@
 ##### 1. Deepak Chaturvedi 
 ##### 2. Kushagra Goel
 ##### 3. Saurabh Chaudhary
-##### 4. Sankalp Jaitley
+##### 4. Sankalp Jaitly
 
+### Link to the video 
+<a href="https://www.youtube.com/watch?v=RqSFXXOLtUg">
+  <img src="https://github.com/kushagra-0-1/HTNE_SUBMISSION_NAV_AR/blob/main/README%20files/yt_logo.png" width=100 height=100>
+</a>
